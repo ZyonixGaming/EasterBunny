@@ -2718,4 +2718,4 @@ var e=arguments[3];require("./polyfills");var r=require("./const"),i=require("./
 },{"phaser":"g7IM","../ui/ScoreLabel":"Ec72","./ChickenSpawner":"X6Mu"}],"epB2":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e=a(require("phaser")),t=a(require("./scenes/GameScene"));function a(e){return e&&e.__esModule?e:{default:e}}var r={type:e.default.AUTO,width:1280,height:720,physics:{default:"arcade",arcade:{gravity:{y:500}}},scene:[t.default]},u=new e.default.Game(r);exports.default=u;
 },{"phaser":"g7IM","./scenes/GameScene":"Tidu"}]},{},["epB2"], null)
-//# sourceMappingURL=/main.864e5307.js.map
+//# sourceMappingURL=%27./%27/main.864e5307.js.map
